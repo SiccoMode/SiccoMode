@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SiccoMode
-- 👀 I’m interested in front-end dev, graphic design & marketing
-- 🌱 I’m currently learning html,css and javascript
-- 📫 Reach me via soortwijn01@gmail.com
+- 👀 I’m interested in web-dev, graphic design & marketing
+- 🌱 I’m currently learning html, css and javascript
+- 📫 Reach me via sicco(at)oortwijn-atelier.nl
 - 🏋🏻 SBD: 152,5/82,5/202,5
 
 <!---
