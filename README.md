@@ -1,7 +1,7 @@
 Sicco Oortwijn
 sicco(at)oortwijn-atelier.nl
 
-Student Construction Management and Engineering at [TU/e](isbe.bwk.tue.nl)
+Student Construction Management and Engineering at [TU/e](hhtps://isbe.bwk.tue.nl)
 
 Learning about BIM, Linked Data  
 Building simple web-apps in Django
