@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @SiccoMode
-- 👀 I’m interested in BIM
-- 🌱 I’m currently learning python
-- 📫 Reach me via sicco(at)oortwijn-atelier.nl
-- 🏋🏻 SBD: 152,5/82,5/202,5
+Sicco Oortwijn
+sicco(at)oortwijn-atelier.nl
+
+Student Construction Management and Engineering at [TU/e](isbe.bwk.tue.nl)
+
+Learning about BIM, Linked Data
+Building simple web-apps in Django
 
 <!---
 SiccoMode/SiccoMode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
