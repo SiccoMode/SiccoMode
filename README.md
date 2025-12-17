@@ -3,8 +3,11 @@ sicco(at)oortwijn-atelier.nl
 
 Student Construction Management and Engineering at [TU/e](hhtps://isbe.bwk.tue.nl)
 
-Learning about BIM, Linked Data  
-Building simple web-apps in Django
+Learning about:
+- BIM (IFC)
+- Linked Data (SPARQL)
+- Scripting (IfcOpenShell)
+- Web-Apps (Django)
 
 <!---
 SiccoMode/SiccoMode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
